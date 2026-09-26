@@ -70,7 +70,7 @@ export default function Navbar() {
                         className="font-bold text-lg text-[#1A1A2E] shrink-0"
                         style={{ fontFamily: 'Space Grotesk, sans-serif' }}
                     >
-                        Sinau Bareng
+                        SIBAR
                     </Link>
 
                     <div className="relative flex-1">
@@ -90,7 +90,7 @@ export default function Navbar() {
                         )}
                         <button
                             onClick={handleLogout}
-                            className="text-sm text-[#FF6B6B] font-medium"
+                            className="text-sm text-[#6C5CE7] font-medium"
                         >
                             Keluar
                         </button>
